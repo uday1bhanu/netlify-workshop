@@ -1,4 +1,5 @@
 # Netlify Core Workshop
+#
 
 In this workshop, you will learn how to create your first composable website with Netlify. You'll learn features of the Netlify platform, and will deep dive into core primitives.
 
